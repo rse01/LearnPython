@@ -1,0 +1,2 @@
+37 path=Base_V4/04_Données/test.txt
+27 mtime=1618436514.274507

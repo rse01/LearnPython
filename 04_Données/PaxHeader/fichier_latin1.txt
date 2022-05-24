@@ -1,0 +1,1 @@
+47 path=Base_V4/04_Données/fichier_latin1.txt
